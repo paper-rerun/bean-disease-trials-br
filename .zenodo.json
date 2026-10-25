@@ -1,0 +1,21 @@
+{
+  "title": "Common bean disease management trials in Brazil: 1,562 results from 20 Embrapa publications",
+  "upload_type": "dataset",
+  "description": "1,562 trial results and 52 trials on managing the main diseases of common bean (Phaseolus vulgaris) in Brazil (anthracnose, angular leaf spot, white mold, rust, web blight, bean golden mosaic), transcribed from the tables of 20 open-access Embrapa publications: treatment, dose and timing, trial context (place, season, cultivar, design), measured variable and value, with the page and table of origin. Each document was transcribed twice, independently, by AI agents, and every disagreement was settled against the PDF; a human reviewed the result before publication. Part of the Paper Rerun project (Open Tables).",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Phaseolus vulgaris",
+    "common bean",
+    "plant disease",
+    "fungicide",
+    "Brazil",
+    "Embrapa",
+    "open data",
+    "AI agents"
+  ]
+}
