@@ -1,5 +1,7 @@
 # Common bean disease management trials in Brazil
 
+Versão em português: [README.pt-BR.md](README.pt-BR.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23641861.svg)](https://doi.org/10.5281/zenodo.23641861)
 
 1,562 trial results on managing the main diseases of common bean (*Phaseolus vulgaris*, "feijão-comum") in Brazil, taken from the tables of 20 open-access Embrapa publications: anthracnose, angular leaf spot, white mold, rust, web blight and bean golden mosaic. Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to (place, season, cultivar, inoculation, application timing, design).
